@@ -15,6 +15,11 @@ A simple NodeJS project to count words in .txt files.<br><br>
  - install dependencies with `npm install`
  - run it with `node cli.js -tfp <text-file-path> -rfp <result-file-path>`
 
+
+ ### Examples
+
+ There is some examples files in the 'files' folder. Both input files and result files (in the results folder under files folder... *obviouly*).
+
  ### Final considerations
 
  It was made with love wile I am studying JavaScript following Alura curriculum. I am a software developer foccused on backend and I work mainly with Python, but used JS with React and I am studying other techologies like Google`s Golang.
