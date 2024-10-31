@@ -1,0 +1,41 @@
+repeated words in paragraph 3: que, você, tenha
+repeated words in paragraph 12: que, estão
+repeated words in paragraph 13: que
+repeated words in paragraph 14: kanban
+repeated words in paragraph 17: scrum, por, quadro, que, alguns
+repeated words in paragraph 19: sistema, para
+repeated words in paragraph 21: modelo, kanban, para, desenvolvimento, software, pensamento, com, método
+repeated words in paragraph 23: anderson, método, kanban, com, palavra, “k”, dos
+repeated words in paragraph 24: kanban, como, método, que, forma, framework, implementação
+repeated words in paragraph 25: uma, metodologia, método, kanban
+repeated words in paragraph 27: kanban, que, entrega, valor
+repeated words in paragraph 28: uma
+repeated words in paragraph 30: kanban, características, para
+repeated words in paragraph 31: trabalho
+repeated words in paragraph 32: tempo, preparação
+repeated words in paragraph 33: layout, máquinas, trabalho, reduzir
+repeated words in paragraph 34: padronização
+repeated words in paragraph 35: por, kanban
+repeated words in paragraph 36: para
+repeated words in paragraph 38: kanban
+repeated words in paragraph 39: produção, etapas, que, etapa
+repeated words in paragraph 40: kanban, para, produção, material
+repeated words in paragraph 41: kanban, produção
+repeated words in paragraph 43: uma
+repeated words in paragraph 54: controle, sistema
+repeated words in paragraph 56: vantagens, kanban
+repeated words in paragraph 57: trabalho
+repeated words in paragraph 58: dinamismo, entre, pessoas, trabalho, equipe
+repeated words in paragraph 59: ambiente, colaboração, trabalho, todas
+repeated words in paragraph 60: autonomia
+repeated words in paragraph 61: forma, problemas
+repeated words in paragraph 62: trabalho, esforços, com
+repeated words in paragraph 63: quais, estão, que, sejam
+repeated words in paragraph 64: kanban
+repeated words in paragraph 66: método, que, “comece, pelo, você
+repeated words in paragraph 68: lean
+repeated words in paragraph 69: pensamento, ágil
+repeated words in paragraph 70: sistema, puxado, oposição, para
+repeated words in paragraph 71: seu, valor, para
+repeated words in paragraph 74: que, produto, valor, desejado, carro, por, deslocamento
+repeated words in paragraph 76: que, valor, desperdício, parte

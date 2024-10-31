@@ -1,0 +1,3 @@
+repeated words in paragraph 3: uma
+repeated words in paragraph 7: dispositivos, web, seu, conectado
+repeated words in paragraph 8: cliente, uma, para
